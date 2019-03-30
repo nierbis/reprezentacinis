@@ -47,7 +47,7 @@ nav ul a {
  	display: none;
  }
 
- @media (max-width: 600px) {
+ @media (max-width: 1366pxpx) {
  	.toggle {
  		display: block;
  	}
