@@ -68,13 +68,11 @@ header h1 {
 		font-size: 40px;
 		line-height: 1.2;
 		opacity: 0.6;
-		margin-top: 35vh;
+		margin-top: 5vh;
 	}
-	#showcase {
-	background-image: url("hereweare.jpg");
-	background-size: cover;
-	height: 100vh;
-	}
+	hr {
+		width: 70%;
+		margin: 8px;
 }
-
+}
 
