@@ -62,13 +62,18 @@ header h1 {
 	opacity: 0.69;
 }
 
-@media all and (max-width: 375px) {
+@media all and (max-width: 640px) {
 	#showcase h1 {
 		padding: 0 20px;
 		font-size: 40px;
 		line-height: 1.2;
 		opacity: 0.6;
 		margin-top: 35vh;
+	}
+	#showcase {
+	background-image: url("hereweare.jpg");
+	background-size: cover;
+	height: 100vh;
 	}
 }
 
